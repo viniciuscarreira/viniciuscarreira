@@ -14,6 +14,7 @@
   <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Vini-pic" height="150" style="border-radius:50px;" 
+       src="![image](https://user-images.githubusercontent.com/101435617/164585733-f2f73f18-27b0-48b5-b96d-711c95a2c11c.png)">
 </div>
   
   ##
