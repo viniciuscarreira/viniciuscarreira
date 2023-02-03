@@ -1,6 +1,6 @@
 ## 
 Pleasure, I'm Vinicius Carreira
-  <p> 📧 viniciusdscarreira@gmail.com </p>
+  <p> 📧 vini2.scarreira@gmail.com </p>
 
 <div align="center">
   <a href="https://github.com/viniciuscarreira">
