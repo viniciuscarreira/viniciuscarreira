@@ -25,6 +25,13 @@ Pleasure, I'm Vinicius Carreira
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </section>
   
+   <h2> Studying </h2>
+<section> 
+  <a href="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+ 	<a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a> 
+  <a href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>  
+</section>
+  
   <h2> Where to find me </h2>
 <section> 
   <a href="https://instagram.com/vini.carreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
